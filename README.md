@@ -1,2 +1,2 @@
-# 2DG_P1
-Tipografía con código
+# 2DG_P2
+Onomatopeya
